@@ -7,8 +7,8 @@
 * para desfrutar dos recursos oferecidos pelo autor
 *
 * @author  Tais Rizzo
-* @version 1.0
-* @since   10/01/2025
+* @version 2.0
+* @since   05/08/1999
 */
 public class Calculadora {
     /**
