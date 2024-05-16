@@ -1,0 +1,55 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Scaneando",
+            "request": "launch",
+            "mainClass": "Scaneando",
+            "projectName": "java-terminal_dd5a6f60"
+        },
+        {
+            "type": "java",
+            "name": "Scannear",
+            "request": "launch",
+            "mainClass": "Scannear",
+            "projectName": "java-terminal_dd5a6f60"
+        },
+        {
+            "type": "java",
+            "name": "Scanner",
+            "request": "launch",
+            "mainClass": "Scanner",
+            "projectName": "java-terminal_dd5a6f60"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "java-terminal_dd5a6f60",
+            "args": [
+                "TAIS",
+                "RIZZO DOS SANTOS",
+                "24",
+                "1.67",
+            ]
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "java-terminal_dd5a6f60"
+        }
+    ]
+}
