@@ -9,8 +9,8 @@ Repositório para scannear entrada de dados bancários via terminal, e realizar 
 |Sobre | Dados |
 |------|---------|
 |Nome Cliente| Tais Rizzo|
-|Agência | ***|
-|Conta|***|
-|Saldo|***|
+|Agência | 445|
+|Conta|1056|
+|Saldo|R$ 558.49|
 
 
