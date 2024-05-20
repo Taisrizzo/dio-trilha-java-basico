@@ -12,3 +12,4 @@ Repositório para scannear entrada de dados bancários via terminal e realizar s
 |Agência | ***|
 |Conta|***|
 |Saldo|***|
+
